@@ -1,0 +1,26 @@
+html {
+    background-color: #62a4ab;
+}
+
+.root-container {
+    background-color: #62a4ab;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.root-button{
+    margin-top: 300px;
+    background-color: #662427; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+  }

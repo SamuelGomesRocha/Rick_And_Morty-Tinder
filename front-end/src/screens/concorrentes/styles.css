@@ -1,0 +1,59 @@
+.Loadzim{
+    margin-left: 46%;
+    margin-top: 12%;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: #62a4ab;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rm-container{
+    background-color: #62a4ab;
+}
+
+h3 {
+    margin-top: 10px;
+    font-size: 30px;
+    margin-bottom: -300px;
+    color: #e5d18a; 
+}
+
+.concorrente-row{
+    margin-top: 100px;
+}
+
+.concorrentes-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    height: 0px;
+    width: 1000px;
+}
+
+
+.row{
+    margin-top: 10px;
+    margin-left: 85px;
+}
+
+body{
+    background-color: #62a4ab;
+}
+
+.concorrentes-title{
+    background-color: #354464;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #e5d18a
+}

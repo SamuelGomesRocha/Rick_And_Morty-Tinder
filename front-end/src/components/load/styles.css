@@ -1,0 +1,15 @@
+.load-container{
+    background-color: #62a4ab;
+    margin-bottom: -300px;
+    margin-top: 300px;
+    width: 100%;
+    height: 0%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.load-img{
+    background-color: #62a4ab;
+    width: 100px;
+}

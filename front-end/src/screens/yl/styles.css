@@ -1,0 +1,71 @@
+.yourlove-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5d18a;
+    margin-top: -5px;
+    width: 400px;
+    height: 600px;
+    border-radius: 30px;
+}
+
+.yl-title{
+    margin-top: -160px;
+    margin-bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: #354464;
+}
+
+.yourlove-data{
+    height: 130px;
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-bottom: -150px;
+    background-color: #547494;
+    display: flex;
+    flex-direction: column;
+    color: #e5d18a;  
+    align-items: center; 
+}   
+
+.yl-button{
+    margin-top: 20px;
+    background-color: #ae5052;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: -10px;
+}
+
+.yl-buttonc{
+    margin-top: 20px;
+    background-color: #64b48c;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 70px;
+}
+
+.yl-buttons{
+    margin-left: 10px;
+    margin-bottom: -150px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
